@@ -19,6 +19,7 @@ public final class TransactionList {
 		return allTransactions.size();
 	}
 
+	
 	// TODO: AB02
 	/**
 	 * Returns the transactions done in the year specified.
